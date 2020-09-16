@@ -1,4 +1,4 @@
-from prac8.taxi import Taxi
+from pra8.taxi import Taxi
 
 class SilverServiceTaxi(Taxi):
 
